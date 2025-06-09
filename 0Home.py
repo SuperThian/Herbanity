@@ -600,7 +600,7 @@ st.markdown("""
     <div class="feature-item">
         <div class="feature-icon">🎯</div>
         <div class="feature-title">Akurasi Tinggi</div>
-        <div class="feature-desc">Model CNN Xception dengan tingkat akurasi optimal</div>
+        <div class="feature-desc">Model CNN ResNet50 dengan tingkat akurasi optimal</div>
     </div>
     <div class="feature-item">
         <div class="feature-icon">⚡</div>
