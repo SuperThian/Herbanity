@@ -317,7 +317,7 @@ st.markdown("""
     <div class='section-title'><span class='floating-emoji'>🔬</span> Teknologi yang Digunakan</div>
     <div class='text-content'>
         Model klasifikasi menggunakan Convolutional Neural Network (CNN) dengan arsitektur <span class='highlight'>ResNet50</span>. 
-        Model ini dilatih menggunakan dataset yang terdiri dari 1200 gambar tanaman herbal yang telah diproses ke ukuran standar 224x224 piksel 
+        Model ini dilatih menggunakan dataset yang terdiri dari 1308 gambar tanaman herbal yang telah diproses ke ukuran standar 224x224 piksel 
         untuk memastikan konsistensi dan akurasi dalam pengenalan pola.
         <br><br>
         Teknologi yang diimplementasikan:
@@ -376,7 +376,7 @@ st.markdown("""
 <div class='section'>
     <div class='section-title'><span class='floating-emoji'>📊</span> Informasi Dataset</div>
     <div class='text-content'>
-        Dataset yang digunakan untuk pelatihan model terdiri dari total <span class='highlight'>400 citra</span> tanaman herbal yang terbagi ke dalam 4 kelas utama, yaitu: <span class='highlight'>jahe</span>, <span class='highlight'>kencur</span>, <span class='highlight'>kunyit</span>, dan <span class='highlight'>temulawak</span>.
+        Dataset yang digunakan untuk pelatihan model terdiri dari total <span class='highlight'>436 citra</span> tanaman herbal yang terbagi ke dalam 4 kelas utama, yaitu: <span class='highlight'>jahe</span>, <span class='highlight'>kencur</span>, <span class='highlight'>kunyit</span>, dan <span class='highlight'>temulawak</span>.
         <br><br>
         Seluruh gambar dikumpulkan melalui proses dokumentasi manual menggunakan kamera smartphone, dengan memperhatikan berbagai sudut pengambilan, pencahayaan alami, dan latar belakang yang bervariasi untuk meningkatkan keragaman visual. Hal ini bertujuan agar model mampu mengenali objek dalam kondisi nyata secara lebih akurat.
         <br><br>
